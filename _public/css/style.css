@@ -1,0 +1,19 @@
+.outer{
+    margin: auto;
+}
+.room{
+    margin: 5px;
+    float: center;
+}
+.messages{
+    min-height: 300px;
+    border: solid 2px #e9ecef;
+    padding: 20px;
+    background-color: #e9ecef;
+}
+.txt-send{
+    width: 100%;
+}
+.btn {
+    margin: auto;
+}
